@@ -2,6 +2,8 @@
 
 ComfyUI custom node that computes **MFCC** (Mel-Frequency Cepstral Coefficients) from an audio signal and outputs it as an image.
 
+![이미지 스펙트럼 예시](https://github.com/bemoregt/ComfyUI_MFCC/blob/main/ScrShot%2015.png)
+
 ---
 
 ## What are MFCCs?
